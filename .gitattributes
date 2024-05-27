@@ -1,0 +1,5 @@
+*.wav filter=lfs diff=lfs merge=lfs -text
+*.mp3 filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+opencv_java???.dll filter=lfs diff=lfs merge=lfs -text
+opencv_videoio_ffmpeg???_64.dll filter=lfs diff=lfs merge=lfs -text
